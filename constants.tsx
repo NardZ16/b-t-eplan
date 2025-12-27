@@ -6,8 +6,8 @@ export const INITIAL_DATA: BudgetCategory[] = [
     id: 'cat-1',
     title: 'Grup Sınıfı',
     items: [
-      { id: '1-1', name: 'IKEA Torald Masa', unitPrice: 10805, quantity: 15, months: 1, link: 'https://www.ikea.com.tr/siparis-adim/sepetim', isActive: true, isRecurring: false },
-      { id: '1-2', name: 'Sınıf Sandalyesi', unitPrice: 24000, quantity: 20, months: 1, isActive: true, isRecurring: false },
+      { id: '1-1', name: 'IKEA Torald Masa', unitPrice: 650, quantity: 15, months: 1, link: 'https://www.ikea.com.tr/siparis-adim/sepetim', isActive: true, isRecurring: false },
+      { id: '1-2', name: 'Sınıf Sandalyesi', unitPrice: 1210, quantity: 20, months: 1, isActive: true, isRecurring: false },
       { id: '1-3', name: '90x120 Beyaz Tahta', unitPrice: 3750, quantity: 1, months: 1, link: 'https://www.panohane.com/90x120-sabit-ayakli-laminat-beyaz-yazi-tahtasi-tek-tarafli-yg241', isActive: true, isRecurring: false },
     ]
   },
@@ -32,8 +32,8 @@ export const INITIAL_DATA: BudgetCategory[] = [
     title: 'Etüt Alanı',
     items: [
       { id: '4-1', name: 'Traverten Orta Masa', unitPrice: 4600, quantity: 1, months: 1, link: 'https://www.trendyol.com/atolye-casa/90x180cm-traverten-yemek-masasi-sabit-loft-model-p-969761615', isActive: true, isRecurring: false },
-      { id: '4-2', name: 'Sandalye', unitPrice: 30000, quantity: 15, months: 1, isActive: true, isRecurring: false },
-      { id: '4-3', name: 'Tekli Etüt Masası', unitPrice: 30000, quantity: 10, months: 1, isActive: true, isRecurring: false },
+      { id: '4-2', name: 'Sandalye', unitPrice: 2000, quantity: 15, months: 1, isActive: true, isRecurring: false },
+      { id: '4-3', name: 'Tekli Etüt Masası', unitPrice: 3000, quantity: 10, months: 1, isActive: true, isRecurring: false },
     ]
   },
   {
@@ -52,8 +52,8 @@ export const INITIAL_DATA: BudgetCategory[] = [
     id: 'cat-6',
     title: 'Maaşlar',
     items: [
-      { id: '6-1', name: 'Öğretmen Maaşları', unitPrice: 30000, quantity: 6, months: 1, isActive: true, isRecurring: true },
-      { id: '6-2', name: 'Personel Maaşları', unitPrice: 15000, quantity: 6, months: 1, isActive: true, isRecurring: true },
+      { id: '6-1', name: 'Öğretmen Maaşları', unitPrice: 30000, quantity: 1, months: 6, isActive: true, isRecurring: true },
+      { id: '6-2', name: 'Personel Maaşları', unitPrice: 15000, quantity: 1, months: 6, isActive: true, isRecurring: true },
     ]
   },
   {

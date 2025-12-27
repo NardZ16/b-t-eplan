@@ -17,7 +17,7 @@ export const INITIAL_DATA: BudgetCategory[] = [
     items: [
       { id: '2-1', name: 'Toplantı Masası (8 Kişilik)', unitPrice: 15000, quantity: 1, months: 1, isActive: true, isRecurring: false },
       { id: '2-2', name: '90x120 Beyaz Tahta', unitPrice: 3750, quantity: 1, months: 1, isActive: true, isRecurring: false },
-      { id: '2-3', name: 'Kontez Çalışma Sandalyesi', unitPrice: 21200, quantity: 8, months: 1, link: 'https://www.trendyol.com/obc-ofis-buro-concept/kontez-beyaz-kollu-krom-ayakli-calisma-sandalyesi-ofis-koltugu-gri-p-831579762', isActive: true, isRecurring: false },
+      { id: '2-3', name: 'Kontez Çalışma Sandalyesi', unitPrice: 2650, quantity: 8, months: 1, link: 'https://www.trendyol.com/obc-ofis-buro-concept/kontez-beyaz-kollu-krom-ayakli-calisma-sandalyesi-ofis-koltugu-gri-p-831579762', isActive: true, isRecurring: false },
     ]
   },
   {

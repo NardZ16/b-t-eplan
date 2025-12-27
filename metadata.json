@@ -1,0 +1,5 @@
+{
+  "name": "Eğitim Merkezi Bütçe Planlayıcı",
+  "description": "Öğretmen maaşları, mobilya ve donanım giderlerini kalem kalem hesaplayan, dinamik ve özelleştirilebilir bütçe yönetim aracı.",
+  "requestFramePermissions": []
+}
